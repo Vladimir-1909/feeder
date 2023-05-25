@@ -1,0 +1,114 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="PyPackageRequirementsInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredPackages">
+        <value>
+          <list size="94">
+            <item index="0" class="java.lang.String" itemvalue="django-ckeditor" />
+            <item index="1" class="java.lang.String" itemvalue="pyexcel-ods" />
+            <item index="2" class="java.lang.String" itemvalue="psycopg2-binary" />
+            <item index="3" class="java.lang.String" itemvalue="django-configurations" />
+            <item index="4" class="java.lang.String" itemvalue="django-constance" />
+            <item index="5" class="java.lang.String" itemvalue="dadata" />
+            <item index="6" class="java.lang.String" itemvalue="importlib-metadata" />
+            <item index="7" class="java.lang.String" itemvalue="django-mptt-urls" />
+            <item index="8" class="java.lang.String" itemvalue="django-widget-tweaks" />
+            <item index="9" class="java.lang.String" itemvalue="django-cachalot" />
+            <item index="10" class="java.lang.String" itemvalue="django-excel" />
+            <item index="11" class="java.lang.String" itemvalue="django-user-agents" />
+            <item index="12" class="java.lang.String" itemvalue="djangorestframework" />
+            <item index="13" class="java.lang.String" itemvalue="django-picklefield" />
+            <item index="14" class="java.lang.String" itemvalue="envdir" />
+            <item index="15" class="java.lang.String" itemvalue="beautifulsoup4" />
+            <item index="16" class="java.lang.String" itemvalue="django-imagekit" />
+            <item index="17" class="java.lang.String" itemvalue="django-celery-email" />
+            <item index="18" class="java.lang.String" itemvalue="pylibmc" />
+            <item index="19" class="java.lang.String" itemvalue="ipython" />
+            <item index="20" class="java.lang.String" itemvalue="django-compressor" />
+            <item index="21" class="java.lang.String" itemvalue="django-debug-toolbar" />
+            <item index="22" class="java.lang.String" itemvalue="gunicorn" />
+            <item index="23" class="java.lang.String" itemvalue="django-filter" />
+            <item index="24" class="java.lang.String" itemvalue="django-axes" />
+            <item index="25" class="java.lang.String" itemvalue="django-elasticsearch-dsl" />
+            <item index="26" class="java.lang.String" itemvalue="pyexcel-xls" />
+            <item index="27" class="java.lang.String" itemvalue="pyexcel-xlsx" />
+            <item index="28" class="java.lang.String" itemvalue="Pillow" />
+            <item index="29" class="java.lang.String" itemvalue="httpx" />
+            <item index="30" class="java.lang.String" itemvalue="traitlets" />
+            <item index="31" class="java.lang.String" itemvalue="texttable" />
+            <item index="32" class="java.lang.String" itemvalue="python-dateutil" />
+            <item index="33" class="java.lang.String" itemvalue="defusedxml" />
+            <item index="34" class="java.lang.String" itemvalue="h11" />
+            <item index="35" class="java.lang.String" itemvalue="lml" />
+            <item index="36" class="java.lang.String" itemvalue="kombu" />
+            <item index="37" class="java.lang.String" itemvalue="rfc3986" />
+            <item index="38" class="java.lang.String" itemvalue="ipython-genutils" />
+            <item index="39" class="java.lang.String" itemvalue="elasticsearch" />
+            <item index="40" class="java.lang.String" itemvalue="certifi" />
+            <item index="41" class="java.lang.String" itemvalue="anyio" />
+            <item index="42" class="java.lang.String" itemvalue="soupsieve" />
+            <item index="43" class="java.lang.String" itemvalue="vine" />
+            <item index="44" class="java.lang.String" itemvalue="xlrd" />
+            <item index="45" class="java.lang.String" itemvalue="rjsmin" />
+            <item index="46" class="java.lang.String" itemvalue="asgiref" />
+            <item index="47" class="java.lang.String" itemvalue="django-appconf" />
+            <item index="48" class="java.lang.String" itemvalue="click" />
+            <item index="49" class="java.lang.String" itemvalue="django-mptt" />
+            <item index="50" class="java.lang.String" itemvalue="pyexcel" />
+            <item index="51" class="java.lang.String" itemvalue="charset-normalizer" />
+            <item index="52" class="java.lang.String" itemvalue="elasticsearch-dsl" />
+            <item index="53" class="java.lang.String" itemvalue="pytils" />
+            <item index="54" class="java.lang.String" itemvalue="ua-parser" />
+            <item index="55" class="java.lang.String" itemvalue="httpcore" />
+            <item index="56" class="java.lang.String" itemvalue="idna" />
+            <item index="57" class="java.lang.String" itemvalue="decorator" />
+            <item index="58" class="java.lang.String" itemvalue="ptyprocess" />
+            <item index="59" class="java.lang.String" itemvalue="django-tabbed-admin" />
+            <item index="60" class="java.lang.String" itemvalue="wcwidth" />
+            <item index="61" class="java.lang.String" itemvalue="requests" />
+            <item index="62" class="java.lang.String" itemvalue="click-didyoumean" />
+            <item index="63" class="java.lang.String" itemvalue="sniffio" />
+            <item index="64" class="java.lang.String" itemvalue="sqlparse" />
+            <item index="65" class="java.lang.String" itemvalue="jdcal" />
+            <item index="66" class="java.lang.String" itemvalue="celery" />
+            <item index="67" class="java.lang.String" itemvalue="zipp" />
+            <item index="68" class="java.lang.String" itemvalue="Unipath" />
+            <item index="69" class="java.lang.String" itemvalue="prompt-toolkit" />
+            <item index="70" class="java.lang.String" itemvalue="urllib3" />
+            <item index="71" class="java.lang.String" itemvalue="billiard" />
+            <item index="72" class="java.lang.String" itemvalue="rcssmin" />
+            <item index="73" class="java.lang.String" itemvalue="six" />
+            <item index="74" class="java.lang.String" itemvalue="parso" />
+            <item index="75" class="java.lang.String" itemvalue="amqp" />
+            <item index="76" class="java.lang.String" itemvalue="pyexcel-io" />
+            <item index="77" class="java.lang.String" itemvalue="xlwt" />
+            <item index="78" class="java.lang.String" itemvalue="et-xmlfile" />
+            <item index="79" class="java.lang.String" itemvalue="django-admin-inline-paginator" />
+            <item index="80" class="java.lang.String" itemvalue="python-memcached" />
+            <item index="81" class="java.lang.String" itemvalue="chardet" />
+            <item index="82" class="java.lang.String" itemvalue="tqdm" />
+            <item index="83" class="java.lang.String" itemvalue="user-agents" />
+            <item index="84" class="java.lang.String" itemvalue="django-ipware" />
+            <item index="85" class="java.lang.String" itemvalue="django-rest-framework" />
+            <item index="86" class="java.lang.String" itemvalue="Unidecode" />
+            <item index="87" class="java.lang.String" itemvalue="Django" />
+            <item index="88" class="java.lang.String" itemvalue="django-js-asset" />
+            <item index="89" class="java.lang.String" itemvalue="pilkit" />
+            <item index="90" class="java.lang.String" itemvalue="click-repl" />
+            <item index="91" class="java.lang.String" itemvalue="pytz" />
+            <item index="92" class="java.lang.String" itemvalue="click-plugins" />
+            <item index="93" class="java.lang.String" itemvalue="openpyxl" />
+          </list>
+        </value>
+      </option>
+    </inspection_tool>
+    <inspection_tool class="PyUnresolvedReferencesInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredIdentifiers">
+        <list>
+          <option value="drf_movie.movies.views.permissions" />
+        </list>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>
